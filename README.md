@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tom 👋
 
-<!--
-**tom-benettibaker/tom-benettibaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Manager focused on Analytics and Business Intelligence.  
+I help teams turn raw data into meaningful insights using Power BI, Tableau, SQL, and Excel.
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- Design and build scalable dashboards and reports
+- Shape data models and pipelines for analysis
+- Deliver insights that drive real business outcomes
+- Explore new Analytis and BI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Tools & Technologies
+Power BI | Tableau | SQL | Excel | Microsoft Fabric
+
+## 📊 Selected Projects - COMING SOON
+
+
 -->
