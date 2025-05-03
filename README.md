@@ -7,7 +7,7 @@ I help teams turn raw data into meaningful insights using Power BI, Tableau, SQL
 - Design and build scalable dashboards and reports
 - Shape data models and pipelines for analysis
 - Deliver insights that drive real business outcomes
-- Explore new Analytis and BI tools
+- Research and explore new Analytis and BI tools and features
 
 ## 🔧 Tools & Technologies
 Power BI | Tableau | SQL | Excel | Microsoft Fabric
